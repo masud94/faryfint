@@ -1,0 +1,173 @@
+@media (max-width:992px) {
+    .container.mainHeaderTop {
+        display: none;
+    }
+
+    .header-and-hero-section {
+        margin-top: 35px;
+    }
+
+    .header-logo {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .mainHeadeUl ul {
+        justify-content: center;
+    }
+
+    .main-header-right-col {
+        width: 100%;
+        justify-content: center;
+        margin-top: 10px;
+    }
+
+    .service-section-box1 {
+        margin-top: 30px;
+    }
+
+    .digital-markrting-left-section {
+        margin-top: 55px;
+    }
+
+    .work-box {
+        margin-top: 20px;
+    }
+
+    .digital-markrting-right-section {
+        margin-top: 55px;
+    }
+
+    .inner-Testimonials-box-Section {
+        margin-top: 30px;
+    }
+
+    .Testimonials-box-Section2 {
+        margin-top: 0px;
+    }
+
+    .pricing-plan-box {
+        margin-top: 30px;
+    }
+
+    .inner-footer-right ul {
+        justify-content: flex-start;
+        margin: 20px 0px;
+    }
+
+    .footer-buttom p {
+        text-align: left;
+    }
+
+    .footer-2-section {
+        margin-top: 20px;
+    }
+
+    .footer_box_5 {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+
+}
+
+@media (max-width:768px) {
+    .header-logo {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .mainHeadeUl ul {
+        justify-content: center;
+    }
+
+    .main-header-right-col {
+        width: 100%;
+        justify-content: center;
+        margin-top: 10px;
+    }
+
+    .hero-section-left {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .hero-section-left h1 {
+        text-align: center;
+        font-size: 3rem;
+    }
+
+    .hero-section-left p {
+        margin: 25px 0px;
+        text-align: center;
+    }
+
+    .hero-section-btn1 {
+        margin-right: 0px;
+    }
+
+    .service-left-section, .digital-markrting-right-section, .inner-Testimonials-Section, .inner-Testimonials-Section2 {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .digital-markrting-right-section h1 {
+        font-size: 45px;
+    }
+
+    .service-left-section h6 {
+        margin-bottom: 26px;
+    }
+
+    .service-left-section p {
+        margin: 25px 0px;
+    }
+
+    .service-section-box1 {
+        margin-top: 30px;
+    }
+
+    .service-right-section {
+        flex-direction: column;
+    }
+
+    a.service-section-btn1 {
+        margin: 20px 0px;
+    }
+
+    a.service-section-btn2 {
+        margin-right: 0px;
+    }
+
+    .digital-markrting-right-section {
+        margin-top: 50px;
+    }
+
+    .work-box {
+        margin-top: 20px;
+    }
+
+    .inner-Testimonials-box-Section {
+        margin-top: 30px;
+    }
+
+    .Testimonials-box-Section2 {
+        margin-top: 0px;
+    }
+
+    .inner-footer-right ul {
+        justify-content: flex-start;
+        margin: 20px 0px;
+    }
+
+    .footer-buttom p {
+        text-align: left;
+    }
+}
